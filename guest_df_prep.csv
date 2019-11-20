@@ -1,14 +1,14 @@
-episodeNumber,season,guestStar
+﻿episodeNumber,season,guestStar
 1,1,Jung Eunpyo
 1,1,Mithra Jin & DJ Tukutz (Epik High)
 1,1,Jeong Hyeongdon
 2,1,Park Seojoon
 2,1,Yoon Bora
 2,1,Lee Dongwook
-5,1,DJ Tukutz with his son Kim Yunu
+5,1,DJ Tukutz (Epik High)
 5,1,Lee YoungHyun
 5,1,Jeong Hyeongdon
-5,1,Jeong Junha 
+5,1,Jeong Junha
 6,1,Lee Hyundo
 6,1,Choi Hongman
 7,1,Yoo Jaesuk
@@ -18,11 +18,11 @@ episodeNumber,season,guestStar
 8,1,Shin Bongsun
 8,1,Park Misun
 8,1,Hwang Kwanghee
-8,1,Jung Eunpyo and his family
-9,1,Jeong Junha 
+8,1,Jeong Eunpyo and his family
+9,1,Jeong Junha
 10,1,Hwang Jaekyun (Lotte Giants infielder)
 11,1,Cha Taehyun
-11,1,Hwang Jungmin 
+11,1,Hwang Jungmin
 12,1,Director Jang Hangjun with his daughter Jang Yunseo
 15,1,Rain
 16,1,Big Bang
@@ -34,12 +34,12 @@ episodeNumber,season,guestStar
 19,1,cast of Hwayi: A Monster Boy (Kim Yoonseok
 19,1,Cho Jinwoong)
 20,1,cast of Hwayi: A Monster Boy (Kim Yoonseok
-20,1,Cho Jinwoong
+20,1,Cho Jinwoong)
 20,1,Kim Sungkyun
 20,1,Yeo Jingoo)
 20,1,Woo Jiwon with his daughter Woo Nayun
 20,1,Kim Jungtae with his son Kim Jihoo (Yakkung)
-20,1,Dong Hyun Kim
+20,1,Kim Donghyun
 21,1,Kim Jungtae with his son Kim Jihoo (Yakkung)
 21,1,Yoon Hyeongbin
 22,1,Taeyeon (Girls' Generation)
@@ -56,11 +56,11 @@ episodeNumber,season,guestStar
 26,1,Yoo Seyoon & Muzie with daughter Soho (UV)
 26,1,Shoo with twin daughters Lim Rahee & Lim Rayool
 26,1,Goo Hye Sun
-27,1,Shoo with twin daughters Lim Rahee & Lim Rayool and son Lim Yu
+27,1,Shoo with twin daughters Lim Rahee & Lim Rayool
 27,1,Goo Hye Sun
 27,1,Mithra Jin & DJ Tukutz (Epik High)
 27,1,Bibi Zhou
-27,1,Gong Hyojin 
+27,1,Gong Hyojin
 28,1,Akdong Musician
 28,1,Sean (Jinusean)
 28,1,Mithra Jin & DJ Tukutz (Epik High)
@@ -85,16 +85,16 @@ episodeNumber,season,guestStar
 30,1,Lee Jaehoon (Cool)
 30,1,Kim Sook
 30,1,comedian Kim Inseok
-30,1,Kim Hyeoncheol
+30,1,Kim Yeongcheol
 31,1,comedian Kim Junhyun
 32,1,comedian Kim Junhyun and Yu Minsang
 32,1,Jang Yunjeong
 32,1,Do Kyung Wan
-32,1,Jo Insung 
+32,1,Jo Insung
 33,1,Jang Yunjeong
 33,1,Do Kyung Wan
 33,1,Sunny (Girls' Generation)
-33,1,Shoo 
+33,1,Shoo
 34,1,Jang Yunjeong
 34,1,Do Kyung Wan
 34,1,Shoo and her daughters & son
@@ -108,14 +108,14 @@ episodeNumber,season,guestStar
 40,1,Park Jisung
 40,1,Guus Hiddink
 40,1,2014 K League AllStar Game players
-40,1,DJ Tukutz with his son Kim Yunu
+40,1,DJ Tukutz (Epik High)
 41,1,Shin Aera with her daughters Cha Yejin & Yeeun
 43,1,Yoon Jongshin
 43,1,Goo Hara
 43,1,Park Ji Yoon
 43,1,Shoo with twin daughters Lim Rahee & Lim Rayool
-43,1,Jang Yunjeong & Do Kyung Wan with their son Do YeonNu (Kkomkkomyi)
-44,1,Jang Yunjeong & Do Kyung Wan
+43,1,Jang Yunjeong & Do Kyung Wan with son Do YeonNu (Kkomkkomyi)
+44,1,Jang Yunjeong & Do Kyung Wan with son Do YeonNu (Kkomkkomyi)
 46,1,Lee Hye Jung
 47,1,Jonghyun of SHINee
 47,1,Sunny (Girls' Generation)
@@ -130,15 +130,15 @@ episodeNumber,season,guestStar
 58,1,Kim Sook
 58,1,comedian Kim Inseok
 58,1,Oh Nami
-58,1,Lee Sangho
-58,1,Lee Sangmin
-58,1,Shoo with twin daughters Lim Rahee & Lim Rayool and son Lim Yu
-58,1,Jang Yunjeong & Do Kyung Wan with son Do YeonNu (Kkomkkomyi) 
+58,1,Lee Jungjin
+58,1,Lee Jungjin
+58,1,Shoo with twin daughters Lim Rahee & Lim Rayool
+58,1,Jang Yunjeong & Do Kyung Wan with son Do YeonNu (Kkomkkomyi)
 60,1,Hyunjin Ryu
 61,1,Hyunjin Ryu
 61,1,Yoon Hyung Bin & Jung Kyung Mi with their son Yoon Joon
 63,1,Cha Seungwon
-66,1,Uhm Junghwa 
+66,1,Uhm Junghwa
 67,1,Cha Taehyun with daughters Cha Taeeun & Cha Sujin
 68,1,Cha Taehyun with daughters Cha Taeeun & Cha Sujin
 70,1,Yoon IlBong
@@ -161,7 +161,7 @@ episodeNumber,season,guestStar
 88,1,Chef Jeong Changuk
 89,1,Chef Jeong Changuk
 91,1,Chef Jeong Changuk Ahn Jaewook
-93,1,Guest narrator Yoona (Girls' Generation)
+93,1,Yoona (Girls' Generation)
 95,1,Girls' Generation
 96,1,Girls' Generation
 96,1,Guest narrator Yoo Inna
@@ -182,11 +182,11 @@ episodeNumber,season,guestStar
 125,1,Yura
 126,1,Kim Jun Hyun
 126,1,Song Sohee
-126,1,Kwanghee
+126,1,Hwang Kwanghee
 126,1,Hyung Sik
 126,1,Jung Yong Hwa
 126,1,Lee Jong Hyun
-126,1,Lee Dong Wook
+126,1,Lee Dongwook
 135,1,Kang Yewon
 139,1,Jung Sungyun and Moah
 139,1,Yoon Hyungbin and Jun
@@ -195,7 +195,7 @@ episodeNumber,season,guestStar
 157,1,Moon Seyoon
 157,1,Siyeon & Jinhyeok
 162,1,Seolhyun and Hyejeong (AOA)
-162,1,Seo Kangjoon and Kang Taeoh (5urprise)
+162,1,Seo Kangjoon and Kang Taeoh From 5urprise
 163,1,Seo Kangjoon and Kang Taeoh From 5urprise
 172,1,Sam Okyere
 177,1,Bada
@@ -245,7 +245,7 @@ episodeNumber,season,guestStar
 207,1,Tiger JK
 207,1,Bizzy
 207,1,Yoon Mirae
-209,1,Heo Jiwoong 
+209,1,Heo Jiwoong
 210,1,Heo Kyunghwan
 210,1,Sayuri Fujita
 210,1,Mark Hamill
@@ -255,15 +255,15 @@ episodeNumber,season,guestStar
 211,1,Lie Sangbong
 211,1,Han Hyunmin
 211,1,Kahi
-211,1,Hong Seokcheon 
+211,1,Hong Seokcheon
 212,1,Hong Jinyoung
 212,1,Hong Wonki (director)
-212,1,Jeong Juri 
+212,1,Jeong Juri
 213,1,Kim Hyunchul and Bombom
 213,1,Kim Inseok and Taeyang
 213,1,Im Haryong
 214,1,Jo Seho
-214,1,Boom 
+214,1,Boom
 215,1,Sam Okyere
 215,1,Lee Yoonji and Rani
 216,1,Akiba Rie and Yena
@@ -349,9 +349,9 @@ episodeNumber,season,guestStar
 253,1,Eva Popiel and Noah
 253,1,Sam Okyere
 253,1,Jeong Juri and Doyun
-253,1,Ryu Sooyoung
+253,1,Ryu Suyoung
 254,1,Key (Shinee)
-256,1,Lee Hyejung
+256,1,Lee Hye Jung
 256,1,Kim Jimin
 257,1,Kai (EXO)
 257,1,Chanyeol (EXO)
@@ -371,17 +371,17 @@ episodeNumber,season,guestStar
 259,1,Twice
 259,1,Andy Lee (Shinhwa)
 259,1,DIA
-259,1,Do Kyunghwan
+259,1,Do Kyung Wan
 259,1,Hwasa (Mamamoo)
 259,1,Lee Hwijae
 259,1,Jun Hyunmoo
 260,1,Kim Donghyun
 260,1,Hwang Kwanghee
 260,1,Choo Sunghoon
-261,1,Ahn Yoonsang 
+261,1,Ahn Yoonsang
 264,1,Shim Jiho
-264,1,Yiel and Yian
-264,1,MC Dingdong 
+264,1,Yian and Yiel
+264,1,MC Dingdong
 265,1,Lee Deokhwa
 266,1,Jo Sungmo and Bongyeon
 266,1,Mihal Ashminov and Adrian
@@ -391,9 +391,9 @@ episodeNumber,season,guestStar
 267,1,Hong Ingyu and Chaeyoon
 267,1,Jo Sungmo and Bongyeon
 269,1,Shim Jiho
-269,1,Yiel and Yian
+269,1,Yian and Yiel
 269,1,Jo Bin (Norazo)
-269,1,Kim Wonhyo 
+269,1,Kim Wonhyo
 271,1,Petri Kalliola and Mikko
 271,1,Hwang Kwanghee
 272,1,Shim Jiho
@@ -423,7 +423,7 @@ episodeNumber,season,guestStar
 287,1,Lee Seojun and Lee Hwijae
 287,1,Joshua Carrott (Korean Englishman) and Gabie Kook
 288,1,Lee Yong
-288,1,Kim Nayoung and Shinwoo
+288,1,Kim Nayoung and Shinwoon
 288,1,Choi Chulsoon and Jaehee
 288,1,Lee Hyojung and Bin
 288,1,Ryu Seungmin and Seonggong
@@ -436,11 +436,11 @@ episodeNumber,season,guestStar
 290,1,Choi Chulsoon and Jaehee
 290,1,Lee Hyojung and Bin
 290,1,Ryu Seungmin and Seonggong
-290,1,Danwoo (Moon Sori 's son)
+290,1,Moon Sori and Danwoo
 290,1,Park Gawon and Yoojoon (Kang Byeonghyun 's son)
 290,1,Cho Donghwa and Jaebeom
 290,1,Chon Taepoong (Tony Akins) and Taeyong
-291,1,Do Kyunghwan
+291,1,Do Kyung Wan
 291,1,Shin Yeeun
 291,1,NU'EST
 291,1,Norazo
@@ -453,13 +453,13 @@ episodeNumber,season,guestStar
 292,1,Lee Yong
 292,1,Seonggong (Ryu Seungmin's son)
 292,1,Choi Chulsoon and Jaehee
-292,1,Park Gawon and Yoojoon (Kang Byeonghyun's son)
+292,1,Park Gawon and Yoojoon (Kang Byeonghyun 's son)
 292,1,Moon Sori and Danwoo
 292,1,Jungjae (Na Sungbum's son)
 294,1,Lee Yong
 294,1,Seonggong (Ryu Seungmin's son)
 294,1,Choi Chulsoon and Jaehee
-294,1,Park Gawon and Yoojoon (Kang Byeonghyun's son)
+294,1,Park Gawon and Yoojoon (Kang Byeonghyun 's son)
 294,1,Moon Sori and Danwoo
 294,1,Jungjae (Na Sungbum's son)
 294,1,Eva Popiel and Noah
@@ -468,7 +468,7 @@ episodeNumber,season,guestStar
 296,1,Dowon and Doha
 298,1,Jacob Batalon
 300,1,Lee Youngja
-301,1,Hwang Kwanghee 
+301,1,Hwang Kwanghee
 302,1,Seungkwan (Seventeen)
 302,1,DK (Seventeen)
 302,1,Dino (Seventeen)
